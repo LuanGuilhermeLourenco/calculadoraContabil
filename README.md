@@ -1,2 +1,1 @@
-# CalculadoraContabil
-#CalculadoraContabil.py
+# calcuvatorpy
